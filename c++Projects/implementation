@@ -1,0 +1,5 @@
+#include "class header file.h"
+<return type> <class name>::<method name>(<params...>)
+{
+	//method code	
+}

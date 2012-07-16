@@ -1,0 +1,58 @@
+		/*	************************************
+			**   Rolla Computer Science Club  **
+			************************************  */
+/* Just an update on the progress of getting a computer club at the Rolla campus. The main campus has a computer science club that we are looking to branch from. I have emailed Samantha White at the main campus and am awaiting her reply. One of the main things we are looking to accomplish is getting seated programming classes at the Rolla campus. */
+
+
+#include <stdio.h>
+#include <ComputerScienceClub.h>
+
+bool succeed;
+
+ void main (purposes for having a computer science club at the Rolla campus include)
+{
+	getOrginized();
+
+	getSeated();
+
+	setSupport();
+
+	setCommunity();
+
+	succeed = true;
+
+	return 0;
+ }
+
+getOrginized()
+{
+	getting Comp Sci / Comp Info Systems students organized;
+
+		// if we are organized we have a better chance of getting seated classes
+}
+
+getSeated()
+{
+	getting seated programming classes at our campus;
+
+		// it takes a certain number of students to get a seated class
+}
+
+setSupport()
+{
+	setting up a support structure for Comp Sci / Comp Info Systems students;
+
+		// helping each other with computer science related issues
+}
+
+setCommunity()
+{
+	to have a community of Comp Sci / Comp Info Systems students;
+
+		// being able to have study groups & other stuff to help each other
+}
+
+suggestions()
+{
+	if any one has any suggestions email me >> tapickell1@cougars.ccis.edu;
+}

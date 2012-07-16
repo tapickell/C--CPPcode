@@ -1,0 +1,101 @@
+﻿Build started 3/31/2012 6:10:28 PM.
+     1>Project "D:\Dropbox\ColumbiaCollege\Programming2\week2\WindowsSux\WinCraps\WinCraps\WinCraps.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\WinCraps.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\WinCraps.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Game.cpp Player.cpp Taunts.cpp WinCraps.cpp /clr:nostdlib 
+         Game.cpp
+     1>Game.cpp(36): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Player.cpp
+         Taunts.cpp
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(27): error C2143: syntax error : missing ';' before '<'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(27): error C2238: unexpected token(s) preceding ';'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(28): error C2143: syntax error : missing ';' before '<'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(28): error C2238: unexpected token(s) preceding ';'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(29): error C2143: syntax error : missing ';' before '<'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(29): error C2238: unexpected token(s) preceding ';'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(30): error C2143: syntax error : missing ';' before '<'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(30): error C2238: unexpected token(s) preceding ';'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(31): error C2143: syntax error : missing ';' before '<'
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\dropbox\columbiacollege\programming2\week2\windowssux\wincraps\wincraps\Taunts.h(31): error C2238: unexpected token(s) preceding ';'
+     1>Taunts.cpp(28): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Taunts.cpp(29): error C2065: 'good' : undeclared identifier
+     1>Taunts.cpp(29): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(30): error C2065: 'good' : undeclared identifier
+     1>Taunts.cpp(30): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(31): error C2065: 'good' : undeclared identifier
+     1>Taunts.cpp(31): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(32): error C2065: 'good' : undeclared identifier
+     1>Taunts.cpp(32): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(33): error C2065: 'bad' : undeclared identifier
+     1>Taunts.cpp(33): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(34): error C2065: 'bad' : undeclared identifier
+     1>Taunts.cpp(34): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(35): error C2065: 'bad' : undeclared identifier
+     1>Taunts.cpp(35): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(36): error C2065: 'bad' : undeclared identifier
+     1>Taunts.cpp(36): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(37): error C2065: 'ugly' : undeclared identifier
+     1>Taunts.cpp(37): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(38): error C2065: 'ugly' : undeclared identifier
+     1>Taunts.cpp(38): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(39): error C2065: 'ugly' : undeclared identifier
+     1>Taunts.cpp(39): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(40): error C2065: 'ugly' : undeclared identifier
+     1>Taunts.cpp(40): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(41): error C2065: 'wiener' : undeclared identifier
+     1>Taunts.cpp(41): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(42): error C2065: 'wiener' : undeclared identifier
+     1>Taunts.cpp(42): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(43): error C2065: 'wiener' : undeclared identifier
+     1>Taunts.cpp(43): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(44): error C2065: 'wiener' : undeclared identifier
+     1>Taunts.cpp(44): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(45): error C2065: 'busted' : undeclared identifier
+     1>Taunts.cpp(45): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(46): error C2065: 'busted' : undeclared identifier
+     1>Taunts.cpp(46): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(47): error C2065: 'busted' : undeclared identifier
+     1>Taunts.cpp(47): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(48): error C2065: 'busted' : undeclared identifier
+     1>Taunts.cpp(48): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>Taunts.cpp(60): error C2065: 'good' : undeclared identifier
+     1>Taunts.cpp(63): error C2065: 'wiener' : undeclared identifier
+     1>Taunts.cpp(77): error C2065: 'bad' : undeclared identifier
+     1>Taunts.cpp(80): error C2065: 'ugly' : undeclared identifier
+     1>Taunts.cpp(92): error C2065: 'busted' : undeclared identifier
+         WinCraps.cpp
+         Generating Code...
+     1>Done Building Project "D:\Dropbox\ColumbiaCollege\Programming2\week2\WindowsSux\WinCraps\WinCraps\WinCraps.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.92

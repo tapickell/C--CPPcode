@@ -1,0 +1,18 @@
+1>------ Build started: Project: DragRace, Configuration: Debug Win32 ------
+1>Build started 2/16/2012 2:57:09 PM.
+1>InitializeBuildStatus:
+1>  Touching "Debug\DragRace.unsuccessfulbuild".
+1>GenerateTargetFrameworkMonikerAttribute:
+1>Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>  MainClass.cpp
+1>d:\dropbox\columbiacollege\introprogramming1\code\dragrace\dragrace\Form1.h(66): error C2039: 'mainInstance' : is not a member of 'DragRace'
+1>d:\dropbox\columbiacollege\introprogramming1\code\dragrace\dragrace\Form1.h(66): error C2065: 'mainInstance' : undeclared identifier
+1>d:\dropbox\columbiacollege\introprogramming1\code\dragrace\dragrace\Form1.h(66): error C2228: left of '.raceStart' must have class/struct/union
+1>          type is ''unknown-type''
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.70
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

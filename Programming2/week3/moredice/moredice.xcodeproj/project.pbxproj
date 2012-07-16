@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		398DD76B152D407D002214DE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 398DD76A152D407D002214DE /* main.cpp */; };
+		398DD76D152D407D002214DE /* moredice.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 398DD76C152D407D002214DE /* moredice.1 */; };
+		398DD775152D413B002214DE /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 398DD773152D413B002214DE /* Game.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		398DD764152D407D002214DE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				398DD76D152D407D002214DE /* moredice.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		398DD766152D407D002214DE /* moredice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = moredice; sourceTree = BUILT_PRODUCTS_DIR; };
+		398DD76A152D407D002214DE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		398DD76C152D407D002214DE /* moredice.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = moredice.1; sourceTree = "<group>"; };
+		398DD773152D413B002214DE /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Game.cpp; sourceTree = "<group>"; };
+		398DD774152D413B002214DE /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		398DD763152D407D002214DE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		398DD75B152D407D002214DE = {
+			isa = PBXGroup;
+			children = (
+				398DD769152D407D002214DE /* moredice */,
+				398DD767152D407D002214DE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		398DD767152D407D002214DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				398DD766152D407D002214DE /* moredice */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		398DD769152D407D002214DE /* moredice */ = {
+			isa = PBXGroup;
+			children = (
+				398DD773152D413B002214DE /* Game.cpp */,
+				398DD774152D413B002214DE /* Game.h */,
+				398DD76A152D407D002214DE /* main.cpp */,
+				398DD76C152D407D002214DE /* moredice.1 */,
+			);
+			path = moredice;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		398DD765152D407D002214DE /* moredice */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 398DD770152D407D002214DE /* Build configuration list for PBXNativeTarget "moredice" */;
+			buildPhases = (
+				398DD762152D407D002214DE /* Sources */,
+				398DD763152D407D002214DE /* Frameworks */,
+				398DD764152D407D002214DE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = moredice;
+			productName = moredice;
+			productReference = 398DD766152D407D002214DE /* moredice */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		398DD75D152D407D002214DE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Columbia College";
+			};
+			buildConfigurationList = 398DD760152D407D002214DE /* Build configuration list for PBXProject "moredice" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 398DD75B152D407D002214DE;
+			productRefGroup = 398DD767152D407D002214DE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				398DD765152D407D002214DE /* moredice */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		398DD762152D407D002214DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				398DD76B152D407D002214DE /* main.cpp in Sources */,
+				398DD775152D413B002214DE /* Game.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		398DD76E152D407D002214DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		398DD76F152D407D002214DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		398DD771152D407D002214DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		398DD772152D407D002214DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		398DD760152D407D002214DE /* Build configuration list for PBXProject "moredice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				398DD76E152D407D002214DE /* Debug */,
+				398DD76F152D407D002214DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		398DD770152D407D002214DE /* Build configuration list for PBXNativeTarget "moredice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				398DD771152D407D002214DE /* Debug */,
+				398DD772152D407D002214DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 398DD75D152D407D002214DE /* Project object */;
+}

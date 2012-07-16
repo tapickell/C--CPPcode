@@ -1,0 +1,107 @@
+Folder:	Midterm Project
+Instructions:
+Mid-Term Project: Sub Hunter
+
+Your mid-term project is to create a game called Sub Hunter
+
+Over View:
+
+The player will assume the role of a destroyer trying to hunt down and destroy an A.I. controlled submarine, who is actively hunting the player.
+
+Requirements:
+
+Destroyer Class
+Sub Class
+Use an array
+Documented Algorithm Design: Written Algorithm Design and Flowchart(s)
+Recommended Design Features (You can deviate if you like):
+
+Assumptions
+Sub is underwater, Destroyer is on top…no depth
+Sub can only see destroyer by using the periscope
+Until it runs out of torpedoes sub will not attempt to flee the game board
+If player leaves the game board, they lose the game.
+Board displays subs estimated last position
+Player should be able to ask for help, to list commands and rules
+BOARD:
+Is a 10 x 10 grid of cells (sounds like an array to me….)
+Drawn with ascii characters like a numeric grid. Example:
+             Sub Hunt
+               Turn #
+           Player Stats:
+            Sub Stats:
+0  1  2  3  4  5  6  7  8  9
+1
+2      @
+3
+4
+5
+6
+7        $
+8
+9
+What is your command?
+Command Results Text……
+Sub Command Result Text
+
+Destroyer:
+Represented by the @ symbol
+Has properties consisting of
+Direction facing (N,S,E,W)
+Depth charges - a count of remaining depth charges
+Armor - How much damage it can take before sinking
+Damage taken - how much damage it has taken from the sub
+Has three action points to spend each round - to be input by the player
+Possible Actions:
+Move Forward - move one square in the direction facing
+Turn Left - make a 90 degree turn to the left in the same square
+Turn Right - make a 90 degree turn to the right in the same square
+Sonar - look for a sub. Sonar allows the destroyer to "see" if the sub is within 3 squares of its current location. If the sub is within 3 squares, the destroyer only knows the direction from its position and a distance “estimate”.
+Depth charge - drop a depth charge
+Sub:
+Represented by the $ symbol
+Has properties consisting of
+Direction facing (N,S,E,W)
+Torpedos - a count of remaining torpedos
+Armor- How much damage it can take before sinking
+Damage taken - how much damage it has taken from the destroyer
+Has two action points to spend each round - to be determined by the computer
+Possible Actions:
+Move Forward - move one square in the direction facing
+Turn Left - make a 90 degree turn to the left in the same square
+Turn Right - make a 90 degree turn to the right in the same square
+Scope- look for a destroyer. Scope allows the sub to "see" if the destroyer is within two squares of its current location. If the destroyer is within two squares, the sub knows the direction and distance from its position
+Torpedo - shoot a torpedo at the ship (only the direction it is facing)
+Game Play:
+The user inputs their actions as one turn (e.g. Forward, forward, ping).
+The computer determines the subs actions (Scope, torpedo)
+The program the runs the turns, sub first then destroyer based on the users actions and the computers actions and gives appropriate messages to the user based what happens.
+When the destroyer runs out of depth charges it is considered to be sunk by the sub
+If the sub runs out of torpedoes, it can run away (head for the boarder of the map) if it successfully runs away the game is a draw
+Depth charges - When dropped they explode in the square they are in causing full damage to that square and half damage to all the squares around it.
+Torpedoes - run straight in the direction the sub is facing for 2 squares. They hit for full damage if the sub is on that line within two square of the launch point - otherwise they miss.
+You should determine damage - limits for the ships and amount caused by the weapons, that make the game playable.
+Extra Credit ideas - implement more!
+Levels to the game (Easy, Hard etc)
+Directional pings - only work in one direction but give exact information
+Smarter sub tactics (run quiet ie. harder to find)
+Ships mines randomly placed on game board
+And more. Be creative!
+Programming Tips:
+
+        I.            Use enumeration to track direction, game state and ship status
+
+      II.            Use an array to represent game board
+
+    III.            Track sub and destroyer position by moving them on the game board not by tracking x, y values
+
+    IV.            Use a While loop to control game status
+
+      V.            Write out your Sub AI
+
+    VI.            Play the game on a table using a checker board to test your “logic” once you establish rules.
+
+  VII.            Use variables to set armor, damage, etc….
+
+Deadline:	Apr 15, 2012 11:59 PM
+Attachments:

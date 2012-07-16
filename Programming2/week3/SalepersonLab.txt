@@ -1,0 +1,59 @@
+Description of the Problem
+
+Use a double-subscripted array to solve the following problem. A company has four salespeople (1 to 4) who sell five different products (1 to 5). Each salesperson passes in slips for each different type of product sold. Each slip contains the following:
+
+a) The salesperson number
+
+b) The product number
+
+c) The total dollar value of that product sold that day
+
+
+
+Thus, each salesperson passes in between 0 and 5 sales slips per day. Assume that the information from all of the slips for last monrth are available. Write a program that reads all this information for last month’s sales and summarize the total sales by salesperson by product. All totals should be stored in the two-dimensional array sales. After processing all the information for last month, print the results in tabular format with each of the columns representing a particular salesperson and each of the rows representing a particular product. Cross total each row to get the total sales of each product for last month; cross total each column to get the total sales by salesperson for last month. Your tabular printout should include these cross totals to the right of the totaled rows and to the bottom of the totaled columns.
+
+
+
+Sample Output:
+
+
+
+Enter the salesperson (1 - 4), product number (1 - 5) and total sales.
+
+Enter -1 for the salesperson to end input.
+
+1 1 9.99
+
+3 3 5.99
+
+2 2 4.99
+
+-1
+
+The total sales for each sales person are displayed at the end of each row,
+
+and the total sales for each product are displayed at the bottom of each column.
+
+                1              2              3              4              5              Total
+
+1              9.99         0.00         0.00         0.00         0.00         9.99
+
+2              0.00         4.99         0.00         0.00         0.00         4.99
+
+3              0.00         0.00         5.99         0.00         0.00         5.99
+
+4              0.00         0.00         0.00         0.00         0.00         0.00
+
+Total         9.99         4.99         5.99         0.00         0.00
+
+
+
+Problem-Solving Tips
+
+1. This problem asks the reader to input a series of numbers representing the salesperson number, product number and the dollar amount. The product number and salesperson number represent the row subscript and column subscript in the sales array where the dollar amount is added. Each array begins with subscript zero; therefore, it is recommended that you oversize the array by one element in each dimension. This allows you to map the product number and salesperson number directly to a subscript without having to subtract one.
+
+2. Table columns contain the total sales for each product. Table rows contain the sales figures for each salesperson. To create the output, the table header must first be printed. (See template.) When program control reaches the outer for loop, the salesperson number is printed. The inner for loop prints the amount of each product that the salesperson sold. When the inner loop finishes, control returns to the outer loop and the \n character is printed.
+
+3. To display totals in the right-most column, simply sum each element in the row and display the total.
+
+This is best done when the array is output. To display the totals at the bottom, declare a one-dimensional array of five elements. While outputting sales, simply add the current column’s value to the appropriate element of the single-subscripted array. After outputting sales and the totals for each row, iterate through the single-subscripted array and output its values.

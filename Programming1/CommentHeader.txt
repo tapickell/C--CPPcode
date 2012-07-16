@@ -1,0 +1,41 @@
+This must be provided at the top of every file you submit
+
+//***************************************************************************
+
+//Programmer: Todd Pickell
+
+//Filename: myfile.cpp
+
+//Requirements: None
+
+//Includes: None
+
+//Course: CISS 241 Introduction to Programming I
+
+//Date: January 1, 2012
+
+//Assignment: C++ Programming Project #1
+
+//Description: Description of the program and objectives met
+
+//*************************************************************************
+
+/* ***************************************************************************
+
+Programmer: Todd Pickell
+
+Filename: MidtermProject.cpp
+
+Requirements: None
+
+Includes: "Form1.h", "stdafx.h"
+
+Course: CISS 241 Introduction to Programming I
+
+Date: January 31, 2012
+
+Assignment: C++ Programming MidTerm Project
+
+Description: Description of the program and objectives met
+
+************************************************************************* */

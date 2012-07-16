@@ -1,0 +1,9 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\GuyClassObjects.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\GuyClassObjects.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\bin\Debug\GuyClassObjects.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\bin\Debug\GuyClassObjects.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\GuyClassObjects.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\GuyClassObjects\GuyClassObjects\obj\x86\Debug\GuyClassObjects.pdb

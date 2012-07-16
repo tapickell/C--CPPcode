@@ -1,0 +1,9 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\bin\Debug\mileage caclulator.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\bin\Debug\mileage caclulator.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\mileage_caclulator.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\mileage_caclulator.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\mileage caclulator.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\mileage caclulator\mileage caclulator\obj\x86\Debug\mileage caclulator.pdb

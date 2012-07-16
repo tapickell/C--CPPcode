@@ -1,0 +1,25 @@
+﻿Build started 2/1/2012 6:06:29 AM.
+     1>Project "D:\tpickell\Documents\Visual Studio 2010\Projects\MidtermProject\MidtermProject\MidtermProject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\MidtermProject.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MidtermProject.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt MidtermProject.cpp TrackClass.cpp /clr:nostdlib 
+         MidtermProject.cpp
+     1>MidtermProject.cpp(28): error C2337: 'STAThreadAttribute' : attribute not found
+     1>MidtermProject.cpp(32): error C2653: 'Application' : is not a class or namespace name
+     1>MidtermProject.cpp(32): error C3861: 'EnableVisualStyles': identifier not found
+     1>MidtermProject.cpp(33): error C2653: 'Application' : is not a class or namespace name
+     1>MidtermProject.cpp(33): error C3861: 'SetCompatibleTextRenderingDefault': identifier not found
+     1>MidtermProject.cpp(36): error C2653: 'Application' : is not a class or namespace name
+     1>MidtermProject.cpp(36): error C2061: syntax error : identifier 'Form1'
+     1>MidtermProject.cpp(36): error C3861: 'Run': identifier not found
+         TrackClass.cpp
+         Generating Code...
+     1>Done Building Project "D:\tpickell\Documents\Visual Studio 2010\Projects\MidtermProject\MidtermProject\MidtermProject.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.29

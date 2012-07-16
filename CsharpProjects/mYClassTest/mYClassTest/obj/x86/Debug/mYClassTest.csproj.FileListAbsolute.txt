@@ -1,0 +1,9 @@
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\bin\Debug\mYClassTest.exe
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\bin\Debug\mYClassTest.pdb
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\mYClassTest.Form1.resources
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\mYClassTest.Properties.Resources.resources
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\mYClassTest.exe
+C:\Users\MobileGateway\documents\visual studio 2010\Projects\mYClassTest\mYClassTest\obj\x86\Debug\mYClassTest.pdb

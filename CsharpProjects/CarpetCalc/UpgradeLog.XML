@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CarpetCalc">
+</Property><Property Name="Solution File" Value="D:\Dropbox\Programming\CsharpProjects\CarpetCalc\CarpetCalc.sln">
+</Property><Property Name="Date" Value="Saturday, December 24, 2011">
+</Property><Property Name="Time" Value="16:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CarpetCalc.sln" Description="File successfully backed up as D:\Dropbox\Programming\CsharpProjects\CarpetCalc\Backup\CarpetCalc.sln">
+</Event><Event ErrorLevel="0" Project="CarpetCalc" Source="CarpetCalc\CarpetCalc.csproj" Description="Project file successfully backed up as D:\Dropbox\Programming\CsharpProjects\CarpetCalc\Backup\CarpetCalc\CarpetCalc.csproj">
+</Event><Event ErrorLevel="0" Project="CarpetCalc" Source="CarpetCalc\Main.cs" Description="File successfully backed up as D:\Dropbox\Programming\CsharpProjects\CarpetCalc\Backup\CarpetCalc\Main.cs">
+</Event><Event ErrorLevel="0" Project="CarpetCalc" Source="CarpetCalc\AssemblyInfo.cs" Description="File successfully backed up as D:\Dropbox\Programming\CsharpProjects\CarpetCalc\Backup\CarpetCalc\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CarpetCalc" Source="CarpetCalc\CarpetCalc.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CarpetCalc" Source="CarpetCalc\CarpetCalc.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CarpetCalc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CarpetCalc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CarpetCalc" Source="CarpetCalc\CarpetCalc.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,18 @@
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.exe
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.pdb
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.Form1.resources
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.Properties.Resources.resources
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.exe
+C:\Users\MobileGateway\Documents\Visual Studio 2010\Projects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\bin\Debug\sloppyJoe.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\sloppyJoe.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\sloppyJoe\sloppyJoe\obj\x86\Debug\GenerateResource.write.1.tlog

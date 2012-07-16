@@ -1,0 +1,11 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\bin\Debug\EthanWorld.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\bin\Debug\EthanWorld.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\EthanWorld.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\EthanWorld.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\EthanWorld.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\EthanWorld.pdb
+D:\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\EthanWorld.exe
+D:\Dropbox\Programming\CsharpProjects\EthanWorld\EthanWorld\obj\x86\Debug\EthanWorld.pdb

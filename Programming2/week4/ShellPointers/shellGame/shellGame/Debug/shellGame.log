@@ -1,0 +1,29 @@
+﻿Build started 4/22/2012 6:34:48 PM.
+     1>Project "D:\tpickell\myCode\Programming2\week4\ShellPointers\shellGame\shellGame\shellGame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\shellGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\shellGame.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt shellGame.cpp
+         shellGame.cpp
+     1>d:\tpickell\mycode\programming2\week4\shellpointers\shellgame\shellgame\shellgame.cpp(33): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\tpickell\myCode\Programming2\week4\ShellPointers\shellGame\Debug\shellGame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\shellGame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\tpickell\myCode\Programming2\week4\ShellPointers\shellGame\Debug\shellGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\tpickell\myCode\Programming2\week4\ShellPointers\shellGame\Debug\shellGame.lib" /MACHINE:X86 Debug\shellGame.exe.embed.manifest.res
+         Debug\shellGame.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\shellGame.exe.embed.manifest" /manifest Debug\shellGame.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         shellGame.vcxproj -> D:\tpickell\myCode\Programming2\week4\ShellPointers\shellGame\Debug\shellGame.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\shellGame.unsuccessfulbuild".
+         Touching "Debug\shellGame.lastbuildstate".
+     1>Done Building Project "D:\tpickell\myCode\Programming2\week4\ShellPointers\shellGame\shellGame\shellGame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.90

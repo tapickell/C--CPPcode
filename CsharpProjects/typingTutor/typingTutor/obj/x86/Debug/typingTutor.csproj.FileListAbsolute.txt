@@ -1,0 +1,9 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\bin\Debug\typingTutor.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\bin\Debug\typingTutor.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\typingTutor.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\typingTutor.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\typingTutor.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\typingTutor\typingTutor\obj\x86\Debug\typingTutor.pdb

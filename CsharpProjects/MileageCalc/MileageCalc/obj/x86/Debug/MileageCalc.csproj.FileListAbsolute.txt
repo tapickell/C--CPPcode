@@ -1,0 +1,13 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\bin\Debug\MileageCalc.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\bin\Debug\MileageCalc.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\MileageCalc.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\MileageCalc.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\MileageCalc.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\MileageCalc.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\bin\Debug\MileageCalc.exe.manifest
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\bin\Debug\MileageCalc.application
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\MileageCalc.exe.manifest
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\MileageCalc\MileageCalc\obj\x86\Debug\MileageCalc.application

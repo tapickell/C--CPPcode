@@ -1,0 +1,11 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\bin\Debug\diggingIn.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\bin\Debug\diggingIn.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\diggingIn.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\diggingIn.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\diggingIn.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\diggingIn.pdb
+D:\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\diggingIn.exe
+D:\Dropbox\Programming\CsharpProjects\diggingIn\diggingIn\obj\x86\Debug\diggingIn.pdb

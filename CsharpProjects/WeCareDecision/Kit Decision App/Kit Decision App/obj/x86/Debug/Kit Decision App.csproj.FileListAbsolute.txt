@@ -1,0 +1,9 @@
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\bin\Debug\Kit Decision App.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\bin\Debug\Kit Decision App.pdb
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\Kit_Decision_App.Form1.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\Kit_Decision_App.Properties.Resources.resources
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\Kit Decision App.exe
+C:\Users\Todd\Dropbox\Programming\CsharpProjects\WeCareDecision\Kit Decision App\Kit Decision App\obj\x86\Debug\Kit Decision App.pdb
